@@ -1,4 +1,4 @@
-# Smart System IDE
+# Smart-Systems-IDE
 
 **Integrated Development Environment (IDE) for Smart Systems.**
 
